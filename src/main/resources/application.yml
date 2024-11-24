@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: api
+
+security:
+  username: test
+  password: 1
+  secret_key: 2D4A614E645267556B58703273357638792F423F4428472B4B6250655368566D
+
